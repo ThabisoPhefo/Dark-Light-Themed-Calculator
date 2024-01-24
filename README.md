@@ -23,7 +23,7 @@ This is a simple calculator web application with dark and light themes, built us
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   https://github.com/ThabisoPhefo/Dark-Light-Themed-Calculator.git
    ```
 
 2. Open the `index.html` file in your preferred web browser.
